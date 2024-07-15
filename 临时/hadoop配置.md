@@ -74,5 +74,5 @@ slaver1:8088
 stop-yarn.sh
 
 192.168.72.131 master  
-192.168.72.132 slaver1   
+192.168.72.132 slaver1     
 192.168.72.133 slaver2   

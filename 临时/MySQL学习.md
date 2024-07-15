@@ -26,3 +26,7 @@ mysql -uroot -p qzj192038
 
 > https://blog.csdn.net/weixin_42628809/article/details/106319555
 > https://developer.aliyun.com/article/904050
+
+## mysql8图形化界面安装
+
+> https://blog.csdn.net/m0_52559040/article/details/121843945
