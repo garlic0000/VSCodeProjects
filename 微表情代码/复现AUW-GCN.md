@@ -40,7 +40,7 @@
 服务器连接不稳定
 没有conda环境
 
-**运行问题:**
+**运行问题：**
 
 > This DataLoader will create 8 worker processes in total. Our suggested max number of worker in current system is 4, which is smaller than what this DataLoader is going to create. Please be aware that excessive worker creation might get DataLoader running slow or even freeze, lower the worker number to avoid potential slowness/freeze if necessary.
 
